@@ -18,7 +18,7 @@ The purpose of this image classification model is to automatically identify and 
 **Description:**  
 Byblis gigantea is a carnivorous plant that traps insects using sticky leaves.
 
-## 🌿 Cimbidium Orchid
+## 🌿 Cymbidium Orchid
 
 <img src="cymbidium.jpg" width="300">
 
