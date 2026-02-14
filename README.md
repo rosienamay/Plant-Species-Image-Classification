@@ -8,3 +8,12 @@ This project is a classification of tropical plants specifically focuses on buil
 
 The purpose of this image classification model is to automatically identify and categorize different varieties of tropical orchids plants. By training the model, the system recognizes patterns such as the shape, color, and structure to accurately classify each orchid species. This will help reduce manual identification errors and provide a reliable source for future data analysis or AI-based plant recognition system.
 
+## 🌿 Byblis Gigantea
+
+<img src="byblis-gigantea.jpg" width="300">
+
+**Common Name:** Rainbow Plant  
+**Scientific Name:** Byblis gigantea  
+
+**Description:**  
+Byblis gigantea is a carnivorous plant that traps insects using sticky leaves.
