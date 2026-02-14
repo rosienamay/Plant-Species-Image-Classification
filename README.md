@@ -78,4 +78,32 @@ This orchid is native to Northeast India and is known for its bluish-purple flow
 **Description:**  
 This orchid is known for its attractive fragrance and is often awarded for its beauty and quality. It is a popular choice among orchid enthusiasts due to its compact growth and the ability to produce multiple blooms throughout the growing season. 
 
+## 🌿 Vanda Miss Joaquim Orchid
 
+<img src="vanda-miss-joaquim.jpg" width="300">
+
+**Common Name:** Vanda Miss Joaquim
+**Scientific Name:** Papilionanthe Miss Joaquim
+
+**Description:**  
+ The first recorded orchid hybrid from Singapore, created in the early 1890s. The plant was named after Agnes Joaquim, who is officially recognised as the breeder of the orchid hybrid.
+
+ ## 🌿 Vanda Ratchaburi Charming Orchid
+
+<img src="vanda-ratchaburi-charming.jpg" width="300">
+
+**Common Name:** Vanda Ratchaburi Charming
+**Scientific Name:** Vanda Ratchaburi Charming
+
+**Description:**  
+A hybrid orchid with vibrant pink blooms, known for its undulating petal perimeter and dark red lip texture. 
+
+ ## 🌿 Vanda Tricolor Orchid
+
+<img src="vanda-tricolor.jpg" width="300">
+
+**Common Name:** Soft Vanda
+**Scientific Name:** Vanda Ratchaburi Charming
+
+**Description:**  
+  This orchid thrives in bright, airy environments and is known for its long-lived flowers.
