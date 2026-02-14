@@ -96,7 +96,7 @@ This orchid is known for its attractive fragrance and is often awarded for its b
 **Scientific Name:** Vanda Ratchaburi Charming
 
 **Description:**  
-A hybrid orchid with vibrant pink blooms, known for its undulating petal perimeter and dark red lip texture. 
+Vibrant yellow blooms. Petals have an undulating perimeter, creating a slightly ruffled appearance around the flower.
 
  ## 🌿 Vanda Tricolor Orchid
 
