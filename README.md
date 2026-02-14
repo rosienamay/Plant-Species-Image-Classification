@@ -17,3 +17,15 @@ The purpose of this image classification model is to automatically identify and 
 
 **Description:**  
 Byblis gigantea is a carnivorous plant that traps insects using sticky leaves.
+
+## 🌿 Cimbidium Orchid
+
+<img src="cimbidium.jpg" width="300">
+
+**Common Name:** Boat Plant  
+**Scientific Name:** Cimbidium  
+
+**Description:**  
+These orchids are known for their showy flowers and are popular in horticulture and and floral arrangements.
+
+
