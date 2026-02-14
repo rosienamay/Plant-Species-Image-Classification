@@ -28,4 +28,16 @@ Byblis gigantea is a carnivorous plant that traps insects using sticky leaves.
 **Description:**  
 These orchids are known for their showy flowers and are popular in horticulture and and floral arrangements.
 
+## 🌿 Dancing Lady Orchid
+
+<img src="dancing-lady.jpg" width="300">
+
+**Common Name:** Dancing Lady Orchid  
+**Scientific Name:** Oncidium  
+
+**Description:**  
+These orchids are known for their intricate, frilly flowers that resemble a dancer's skirt, which is how they got their common name. They are part of the Orchidaceae family and are native to tropical and subtropical regions of the Americas. 
+
+
+
 
