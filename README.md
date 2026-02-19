@@ -11,7 +11,7 @@ The purpose of this image classification model is to automatically identify and 
 
 ## Image Subfolders
 
-- [Folder 1](images/folder1/)
+- [Exported Teachable Machine Model Files](images/plants/images/exported-model-files)
 - [Folder 2](images/folder2/)
 - [Folder 3](images/folder3/)
 - [Folder 4](images/folder4/)
