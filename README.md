@@ -9,4 +9,9 @@ This project is a classification of tropical plants specifically focuses on buil
 The purpose of this image classification model is to automatically identify and categorize different varieties of tropical orchids plants. By training the model, the system recognizes patterns such as the shape, color, and structure to accurately classify each orchid species. This will help reduce manual identification errors and provide a reliable source for future data analysis or AI-based plant recognition system.
 
 
-![Exported Model Files](images/exported-model-files/byblis.zip)
+## Image Subfolders
+
+- [Folder 1](images/folder1/)
+- [Folder 2](images/folder2/)
+- [Folder 3](images/folder3/)
+- [Folder 4](images/folder4/)
