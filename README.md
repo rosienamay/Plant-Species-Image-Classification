@@ -228,14 +228,13 @@ The purpose of this image classification model is to automatically identify and 
 <img src="images/plants/images/model-training-details/trainingsettings.png" width="200"><br><br>
 <b>Training Screenshot</b> 
 </td>
-
+</table>
 
 ## Under the hood evaluation screenshots
-
 <table>
 <tr>
-<td align="center" width="50%">
-<img src="images/plants/images/model-evaluation/model-evaluation.png" width="300"><br><br>
+<td align="center" width="300">
+<img src="images/plants/images/model-evaluation/model-evaluation.png"><br><br>
 <b>Model Evaluation:</b>The Accuracy per Class and Confusion Matrix are not showing due to a browser performance limitation caused by a large data set size.
 </td>
 </table>
