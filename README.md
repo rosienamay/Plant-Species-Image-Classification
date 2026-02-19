@@ -16,3 +16,27 @@ The purpose of this image classification model is to automatically identify and 
 - [Model Evaluation](images/plants/images/model-evaluation/)
 - [Model Testing](images/plants/images/model-testing/)
 - [Model Training Details](images/plants/images/model-training-details/)
+
+
+## Plant Species Section
+
+<table>
+<tr>
+<td align="center" width="300">
+<img src="images/image-representatives/byblis.jpg" width="200"><br><br>
+
+<b>Common Name: Rainbow Plant</b> Snake Plant <br>
+<b>Scientific Name: Byblis gigantea</b> <i>Dracaena trifasciata</i> <br>
+<b>Description:</b> Byblis gigantea is a rare, perennial carnivorous plant endemic to Western Australia, characterized by its tall (up to 0.45-0.7 meters), sub-shrubby habit and sticky, mucilaginous leaves that trap insects.
+</td>
+
+<td align="center" width="300">
+<img src="images/indoor/plant2.jpg" width="200"><br><br>
+
+<b>Common Name:</b> Aloe Vera <br>
+<b>Scientific Name:</b> <i>Aloe vera</i> <br>
+<b>Description:</b> A succulent plant widely used for its medicinal 
+properties, especially for soothing skin irritation and burns.
+</td>
+</tr>
+</table>
