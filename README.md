@@ -230,11 +230,12 @@ The purpose of this image classification model is to automatically identify and 
 </td>
 
 
-##Under the hood evaluation screenshots
+## Under the hood evaluation screenshots
+
 <table>
 <tr>
-<td align="center" width="33%">
-<img src="images/plants/images/model-evaluation/model-evaluation.png" width="200"><br><br>
+<td align="center" width="50%">
+<img src="images/plants/images/model-evaluation/model-evaluation.png" width="300"><br><br>
 <b>Model Evaluation:</b>The Accuracy per Class and Confusion Matrix are not showing due to a browser performance limitation caused by a large data set size.
 </td>
 </table>
