@@ -24,10 +24,10 @@ The purpose of this image classification model is to automatically identify and 
 <tr>
 <td align="center" width="33%">
 
-<<img src="images/plants/images/image-representatives/byblis.jpg" width="200"><br><br>
-<b>Common Name: Rainbow Plant</b> Snake Plant <br>
-<b>Scientific Name: Byblis gigantea</b> <i>Dracaena trifasciata</i> <br><br>
-<b>Description: Byblis gigantea is a rare, perennial carnivorous plant endemic to Western Australia, characterized by its tall (up to 0.45-0.7 meters), sub-shrubby habit and sticky, mucilaginous leaves that trap insects.</b>
+<img src="images/plants/images/image-representatives/byblis.jpg" width="200"><br><br>
+<b>Common Name:</b> Rainbow Plant <br>
+<b>Scientific Name: </b> <i>Byblis gigantea</i> <br><br>
+<b>Description:</b> Byblis gigantea is a rare, perennial carnivorous plant endemic to Western Australia, characterized by its tall (up to 0.45-0.7 meters), sub-shrubby habit and sticky, mucilaginous leaves that trap insects.
 </td>
 
 <td align="center" width="33%">
@@ -52,7 +52,7 @@ The purpose of this image classification model is to automatically identify and 
 <tr>
 <td align="center" width="33%">
 
-<<img src="images/plants/images/image-representatives/dancinglady.jpg" width="200"><br><br>
+<img src="images/plants/images/image-representatives/dancinglady.jpg" width="200"><br><br>
 <b>Common Name: Dancing Lady Orchid/Dancing Doll Orchid/Golden Shower Orchid</b> Snake Plant <br>
 <b>Scientific Name: Oncidium genus</b> <i>Dracaena trifasciata</i> <br><br>
 <b>Description:Oncidium orchids are primarily epiphytic (growing on trees) and are native to the tropical and subtropical Americas. They are characterized by large, arching sprays or spikes filled with dozens of small, dainty, and often fragrant flowers.</b>
