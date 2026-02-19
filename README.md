@@ -230,11 +230,28 @@ The purpose of this image classification model is to automatically identify and 
 </td>
 </table>
 
-## Under the hood evaluation screenshots
+## Under the Hood Evaluation Screenshots
 <table>
 <tr>
-<td align="center" width="300">
+<td align="center" width="500">
 <img src="images/plants/images/model-evaluation/model-evaluation.png"><br><br>
 <b>Model Evaluation:</b>The Accuracy per Class and Confusion Matrix are not showing due to a browser performance limitation caused by a large data set size.
+</td>
+</table>
+
+
+## Preview Testing Screenshots (10 predicted plant class)
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="images/plants/images/model-testing/Test1.png" width="300"><br><br>
+<b> A testing preview of a Vanda Tricolor Orchid that shows 99% of test result.</b>
+</td>
+
+
+<td align="center" width="50%">
+<img src="images/plants/images/model-testing/Test2.png" width="300"><br><br>
+<b>A testing preview of a Vanda Ratchaburi Orchid that shows 100% of test result.</b>
 </td>
 </table>
