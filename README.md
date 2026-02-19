@@ -196,3 +196,37 @@ The purpose of this image classification model is to automatically identify and 
 </td>
 </table>
 
+
+## Model Training Details
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="images/plants/images/model-training-details/image-representatives/img-per-class1.png" width="200"><br><br>
+<b>Description:</b> CAPTION HERE
+</td>
+
+<td align="center" width="33%">
+<img src="images/plants/images/model-training-details/image-representatives/img-per-class2.png" width="200"><br><br>
+<b>Description:</b> CAPTION HERE
+</td>
+
+
+<td align="center" width="33%">
+<img src="images/plants/images/model-training-details/image-representatives/img-per-class3.png" width="200"><br><br>
+<b>Description:</b> CAPTION HERE
+</td>
+</table>
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="images/plants/images/model-training-details/image-representatives/img-per-class4.png" width="200"><br><br>
+<b>Description:</b> CAPTION HERE
+</td>
+
+<td align="center" width="33%">
+<img src="images/plants/images/model-training-details/image-representatives/trainingsettings.png" width="200"><br><br>
+<b>Description:</b> CAPTION HERE
+</td>
+</table>
