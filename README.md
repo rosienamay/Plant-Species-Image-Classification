@@ -1,6 +1,6 @@
 # Plant-Species-Image-Classification
 
-** 📌Project Overview:**
+**📌Project Overview:**
 
 This project is a classification of tropical plants specifically focuses on building dataset of different varieties of Philippine Orchids. The primary goal of this project is to collect and classify images about various orchid species to create a structured dataset that can be used for plant identification in machine learning applications. The classification includes multiple orchid varieties captured from different angles to ensure accuracy. 
 
