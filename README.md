@@ -439,5 +439,11 @@ The purpose of this image classification model is to automatically identify and 
 <a href="images/plants/images/exported-model-files/vanda-tricolor.zip">Download ZIP</a>
 </td>
 
+<td align="center" width="25%">
+📦 <br><br>
+<b>Exported Odontoglossum Orchid</b><br><br>
+<a href="images/plants/images/exported-model-files/odontoglossum.zip">Download ZIP</a>
+</td>
+
 </tr>
 </table>
