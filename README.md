@@ -101,3 +101,117 @@ The purpose of this image classification model is to automatically identify and 
 
 </td>
 </table>
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="images/plants/images/image-representatives/vanda-javierae.jpg" width="200"><br><br>
+<b>Common Name: </b>Mrs. Javier's Vanda<br>
+<b>Scientific Name: </b> <i>Vanda javierae </i> <br><br>
+<b>Description:</b> anda javierae is a rare, endangered species of orchid endemic to the Philippines, specifically found in the Luzon and Calayan Island regions. It is a medium-sized, monopodial epiphyte that thrives in cool, high-elevation, humid environments (around 1200 meters), often near water sources.
+</td>
+
+<td align="center" width="33%">
+<img src="images/plants/images/image-representatives/vanda-baby-angel.jpg" width="200"><br><br>
+<b>Common Name: </b>Baby Angel Orchid<br>
+<b>Scientific Name: </b> <i>Vandachostylis Baby Angel</i> <br><br>
+<b>Description:</b>  Vandachostylis Baby Angel is a popular, compact, and fragrant hybrid orchid registered in 1989. It is a primary cross between Vanda falcata (75% - formerly Neofinetia) and Vandachostylis Lou Sneary. It is highly prized for its ability to bloom multiple times a year, producing small, white, and intensely sweet-scented flowers. The plant is well-suited for hanging baskets, prefers bright, indirect light, and is generally easy to grow. 
+</td>
+
+
+<td align="center" width="33%">
+<img src="images/plants/images/image-representatives/vanda-barnesii.jpg" width="200"><br><br>
+<b>Common Name: </b>Barnes' Vanda<br>
+<b>Scientific Name: </b> <i>Vanda barnesii </i> <br><br>
+<b>Description:</b> Vanda barnesii is a rare, cool-growing, small-sized epiphytic orchid endemic to the high-elevation forests of northern Luzon in the Philippines. It was identified in 2012 and is characterized by its stiff, leathery (coriaceous) leaves and upright inflorescences (4.8 to 7.2 inches long) that bear up to 11 flowers. 
+
+</td>
+</table>
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="images/plants/images/image-representatives/vanda-celebica.jpg" width="200"><br><br>
+<b>Common Name: </b>The Celebes Vanda<br>
+<b>Scientific Name: </b> <i>Vanda Celebica Rolfe</i> <br><br>
+<b>Description:</b> CAPTION HERE
+</td>
+
+<td align="center" width="33%">
+<img src="images/plants/images/image-representatives/dancinglady.jpg" width="200"><br><br>
+<b>Common Name: </b>NAME HERE<br>
+<b>Scientific Name: </b> <i>NAME HERE</i> <br><br>
+<b>Description:</b>  Vanda celebica is a rare, epiphytic, and warm-growing orchid endemic to North Sulawesi, Indonesia. It is a medium-to-large, monopodial, clump-forming orchid with thin, decurved leaves and small, 3–4 cm wide flowers that are typically reddish-brown with greenish-yellow petals. The flowers are fragrant, featuring a lily-like scent that shifts to a cucumber aroma after a few weeks, blooming in the summer on short, few-flowered inflorescences. 
+</td>
+
+
+<td align="center" width="33%">
+<img src="images/plants/images/image-representatives/vanda-jairakblue.jpg" width="200"><br><br>
+<b>Common Name: </b>Jairak Blue<br>
+<b>Scientific Name: </b> <i>Vanda coerulea</i> <br><br>
+<b>Description:</b> The Vanda Jairak Blue (specifically Vanda Jairak Blue Classic) is a, renowned, high-quality, hybrid orchid originating from Thailand. It is highly popular for its deep blue-purple, long-lasting flowers.
+
+</td>
+</table>
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="images/plants/images/image-representatives/vanda-joaquim.jpg" width="200"><br><br>
+<b>Common Name: </b>Princess Aloha Orchid<br>
+<b>Scientific Name: </b> <i>Papilionanthe Miss Joaquim</i> <br><br>
+<b>Description:</b> Papilionanthe Miss Joaquim is a vigorous, sun-loving, and free-flowering orchid hybrid that was chosen as Singapore's National Flower on April 15, 1981. It is characterized by its cylindrical or "pencil-like" leaves, which are adaptations that allow it to grow in full, direct sun.
+</td>
+
+<td align="center" width="33%">
+<img src="images/plants/images/image-representatives/dancinglady.jpg" width="200"><br><br>
+<b>Common Name: </b>NAME HERE<br>
+<b>Scientific Name: </b> <i>NAME HERE</i> <br><br>
+<b>Description:</b> CAPTION HERE
+</td>
+
+
+<td align="center" width="33%">
+<img src="images/plants/images/image-representatives/vanda-kulwadee.jpg" width="200"><br><br>
+<b>Common Name: </b>Vanda Kulwadee, Kulwadee Fragrance<br>
+<b>Scientific Name: </b> <i>Vanda Kulwadee Fragrance</i> <br><br>
+<b>Description:</b> Vanda Kulwadee Fragrance is a popular, award-winning, and highly fragrant Vanda orchid hybrid that originated in Thailand. It is renowned for its large, rounded blooms and intense scent—a rare feature among many modern Vanda hybrids.
+
+</td>
+</table>
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="images/plants/images/image-representatives/vanda-ratchaburi.jpg" width="200"><br><br>
+<b>Common Name: </b>Ratchaburi Beauty, Ratchaburi Charming<br>
+<b>Scientific Name: </b> <i> Vanda hybrid</i> <br><br>
+<b>Description:</b>  These are epiphytic, monopodial orchids featuring large, thick, leathery, strap-shaped leaves and long, fleshy aerial roots. They are usually grown in wooden hanging baskets without potting medium.
+</td>
+
+<td align="center" width="33%">
+<img src="images/plants/images/image-representatives/vanda-sanderiana.jpg" width="200"><br><br>
+<b>Common Name: </b>Waling-waling<br>
+<b>Scientific Name: </b> <i>Vanda sanderiana</i> <br><br>
+<b>Description:</b> Vanda sanderiana (Waling-waling) is a prestigious, large-sized Philippine orchid, often hailed as the "Queen of Philippine flowers". It is an epiphyte with long, leathery leaves and produces large (up to 11 cm), fragrant, and long-lasting flowers, typically featuring a pinkish-tan dorsal sepal/petals and yellow-maroon veined lateral sepals. 
+</td>
+
+
+<td align="center" width="33%">
+<img src="images/plants/images/image-representatives/vanda-sneary-pink.jpg" width="200"><br><br>
+<b>Common Name: </b>Vandachostylis Lou Sneary Pink<br>
+<b>Scientific Name: </b> <i>Vandachostylis Lou Sneary</i> <br><br>
+<b>Description:</b> Neostylis (Vandachostylis) Lou Sneary, perhaps the most popular Neofinetia hybrid of all time, is the cross of Neofinetia falcata and Rhynchostylis coelestis. Plants are vandaceous and may bloom multiple times a year. Flowers are white with blue/purple accents, and they are very fragrant.
+
+</td>
+</table>
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="images/plants/images/image-representatives/vanda-tricolor.jpg" width="200"><br><br>
+<b>Common Name: </b>Tricolor Vanda, Soft Vanda, Three-colored Vanda<br>
+<b>Scientific Name: </b> <i>Vanda tricolor Lindl.</i> <br><br>
+<b>Description:</b> Vanda tricolor is a large, epiphytic, or sometimes terrestrial, monopodial orchid species native to Indonesia (Java, Bali, Lombok, Sumbawa) and Laos. It is highly valued for its tall, erect stems with leathery, strap-shaped leaves and its fragrant, long-lasting flowers.
+</td>
+</table>
