@@ -202,31 +202,31 @@ The purpose of this image classification model is to automatically identify and 
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="images/plants/images/model-training-details/image-representatives/img-per-class1.png" width="200"><br><br>
-<b>Description:</b> CAPTION HERE
+<img src="images/plants/images/model-training-details/img-per-class-1.png" width="200"><br>
+<b>Dataset Screenshot 1</b>
 </td>
 
 <td align="center" width="33%">
-<img src="images/plants/images/model-training-details/image-representatives/img-per-class2.png" width="200"><br><br>
-<b>Description:</b> CAPTION HERE
+<img src="images/plants/images/model-training-details/img-per-class-2.png" width="200"><br><br>
+<b>Dataset Screenshot 2</b> 
 </td>
 
 
 <td align="center" width="33%">
-<img src="images/plants/images/model-training-details/image-representatives/img-per-class3.png" width="200"><br><br>
-<b>Description:</b> CAPTION HERE
+<img src="images/plants/images/model-training-details/img-per-class-3.png" width="200"><br><br>
+<b>Dataset Screenshot 3</b> 
 </td>
 </table>
 
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="images/plants/images/model-training-details/image-representatives/img-per-class4.png" width="200"><br><br>
-<b>Description:</b> CAPTION HERE
+<img src="images/plants/images/model-training-details/img-per-class-4.png" width="200"><br><br>
+<b>Dataset Screenshot 4</b>
 </td>
 
 <td align="center" width="33%">
-<img src="images/plants/images/model-training-details/image-representatives/trainingsettings.png" width="200"><br><br>
-<b>Description:</b> CAPTION HERE
+<img src="images/plants/images/model-training-details/trainingsettings.png" width="200"><br><br>
+<b>Training Screenshot</b> 
 </td>
 </table>
