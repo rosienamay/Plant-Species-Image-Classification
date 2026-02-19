@@ -23,7 +23,7 @@ The purpose of this image classification model is to automatically identify and 
 <table>
 <tr>
 <td align="center" width="300">
-<img src="images/plants/images/images-representatives/byblis.jpg" width="200"><br><br>
+<img src="images/plants/images/image-representatives/byblis.jpg" width="200"><br><br>
 
 <b>Common Name: Rainbow Plant</b> Snake Plant <br>
 <b>Scientific Name: Byblis gigantea</b> <i>Dracaena trifasciata</i> <br>
