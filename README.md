@@ -295,3 +295,36 @@ The purpose of this image classification model is to automatically identify and 
 <b>A testing preview of a Byblis Gigantea Orchid that shows 100% of test result.</b>
 </td>
 </table>
+
+## Exported Models Preview (zip files)
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+📦 <br><br>
+<b>Exported Byblis Gigantea Orchid</b><br><br>
+<a href="images/plants/images/exported-model-files/byblis.zip">Download ZIP</a>
+</td>
+
+<td align="center" width="25%">
+📦 <br><br>
+<b>Exported Catasetum Orchid</b><br><br>
+<a href="images/plants/images/exported-model-files/catasetum.zip">Download ZIP</a>
+</td>
+
+<td align="center" width="25%">
+📦 <br><br>
+<b>Exported Cymbidium Orchid</b><br><br>
+<a href="images/plants/images/exported-model-files/cymbidium.zip">Download ZIP</a>
+</td>
+
+<td align="center" width="25%">
+📦 <br><br>
+<b>Exported Dancing Lady Orchid</b><br><br>
+<a href="images/plants/images/exported-model-files/dancinglady.zip">Download ZIP</a>
+</td>
+
+</tr>
+</table>
+
