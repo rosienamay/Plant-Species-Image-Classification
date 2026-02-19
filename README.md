@@ -33,46 +33,45 @@ The purpose of this image classification model is to automatically identify and 
 <td align="center" width="33%">
 <img src="images/plants/images/image-representatives/catasetum.jpg" width="200"><br><br>
 
-<b>Common Name: Boat Orchid or Noble Orchid </b> Snake Plant <br><br>
-<b>Scientific Name: Catasetum callosum</b> <i>Dracaena trifasciata</i> <br>
-<b>Description: Catasetum (abbreviated Ctsm.) is a genus of roughly 200 species of showy, Neotropical epiphytic orchids native to Central and South America. They are highly prized for their unique, waxy, and often intensely fragrant flowers.</b>
+<b>Common Name:</b> Catasetum<br><br>
+<b>Scientific Name: </b><i>Catasetum callosum</i> <br>
+<b>Description: </b>Catasetum (abbreviated Ctsm.) is a genus of roughly 200 species of showy, Neotropical epiphytic orchids native to Central and South America. They are highly prized for their unique, waxy, and often intensely fragrant flowers.
 
 </td>
 
 <td align="center" width="33%">
 
 <img src="images/plants/images/image-representatives/cymbidium.jpg" width="200"><br><br>
-<b>Common Name:</b> Peace Lily <br>
-<b>Scientific Name:Cymbidium (Genus)</b> <i>Spathiphyllum wallisii</i> <br>
-<b>Description:Cymbidium orchids are a genus of approximately 55–80 species of evergreen, perennial, and epiphytic (tree-dwelling), lithophytic (rock-growing), or terrestrial (ground-growing) herbs. They are highly popular in horticulture, valued for their long, leathery, strap-like leaves and tall, dramatic, and enduring flower spikes. </b> 
+<b>Common Name:</b>  Boat Orchid or Noble Orchid<br>
+<b>Scientific Name:</b> <i>Cymbidium (Genus)</i> <br>
+<b>Description:</b> Cymbidium orchids are a genus of approximately 55–80 species of evergreen, perennial, and epiphytic (tree-dwelling), lithophytic (rock-growing), or terrestrial (ground-growing) herbs. They are highly popular in horticulture, valued for their long, leathery, strap-like leaves and tall, dramatic, and enduring flower spikes. 
 
 </td>
 </table>
+
 <table>
 <tr>
 <td align="center" width="33%">
-
 <img src="images/plants/images/image-representatives/dancinglady.jpg" width="200"><br><br>
-<b>Common Name: Dancing Lady Orchid/Dancing Doll Orchid/Golden Shower Orchid</b> Snake Plant <br>
-<b>Scientific Name: Oncidium genus</b> <i>Dracaena trifasciata</i> <br><br>
-<b>Description:Oncidium orchids are primarily epiphytic (growing on trees) and are native to the tropical and subtropical Americas. They are characterized by large, arching sprays or spikes filled with dozens of small, dainty, and often fragrant flowers.</b>
+<b>Common Name: </b>Dancing Lady Orchid/Dancing Doll Orchid/Golden Shower Orchid<br>
+<b>Scientific Name: </b> <i>Oncidium genus</i> <br><br>
+<b>Description:</b>Oncidium orchids are primarily epiphytic (growing on trees) and are native to the tropical and subtropical Americas. They are characterized by large, arching sprays or spikes filled with dozens of small, dainty, and often fragrant flowers.
 </td>
 
 <td align="center" width="33%">
-<img src="images/plants/images/image-representatives/catasetum.jpg" width="200"><br><br>
-
-<b>Common Name: Catasetum </b> Snake Plant <br><br>
-<b>Scientific Name: Catasetum callosum</b> <i>Dracaena trifasciata</i> <br>
-<b>Description: Catasetum (abbreviated Ctsm.) is a genus of roughly 200 species of showy, Neotropical epiphytic orchids native to Central and South America. They are highly prized for their unique, waxy, and often intensely fragrant flowers.</b>
+<img src="images/plants/images/image-representatives/dendrodium.jpg" width="200"><br><br>
+<b>Common Name:</b> Dendrobium Orchid/Stalk Orchids<br><br>
+<b>Scientific Name: </b> <i> Dendrobium </i> <br>
+<b>Description: </b>Dendrobium is a large genus of about 1600 tropical and subtropical herbaceous perennials in the orchid family (Orchidaceae). They are native across a wide area from India, China and Japan to Australia, New Zealand and New Caledonia. The genus name comes from the Greek words dendron, meaning a tree, and bios, meaning life.
 
 </td>
 
 <td align="center" width="33%">
 
-<img src="images/indoor/plant3.jpg" width="200"><br><br>
-<b>Common Name:</b> Peace Lily <br>
-<b>Scientific Name:</b> <i>Spathiphyllum wallisii</i> <br>
-<b>Description:</b> A popular ornamental plant known for its white flowers and ability to thrive indoors.
+<img src="images/plants/images/image-representatives/odontoglossum.jpg" width="200"><br><br>
+<b>Common Name:</b> Butterfly Orchids, Long-lasting Spray Orchids <br>
+<b>Scientific Name:</b> <i>Odontoglossum</i> <br>
+<b>Description:</b>Odontoglossum, genus of some 150 species of orchids (family Orchidaceae) that are primarily native to mountainous areas of tropical America. Many Odontoglossum species and hybrids are cultivated for their showy long-lasting flowers and are considered fairly easy to grow. In addition, a number of orchids of other genera have been crossed with species of Odontoglossum to obtain novel hybrid flowers.
 
 </td>
 </table>
