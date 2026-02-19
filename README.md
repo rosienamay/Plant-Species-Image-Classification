@@ -216,10 +216,7 @@ The purpose of this image classification model is to automatically identify and 
 <img src="images/plants/images/model-training-details/img-per-class-3.png" width="200"><br><br>
 <b>Dataset Screenshot 3</b> 
 </td>
-</table>
 
-<table>
-<tr>
 <td align="center" width="33%">
 <img src="images/plants/images/model-training-details/img-per-class-4.png" width="200"><br><br>
 <b>Dataset Screenshot 4</b>
