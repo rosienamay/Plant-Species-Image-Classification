@@ -94,8 +94,6 @@ The purpose of this image classification model is to automatically identify and 
 </td>
 
 <td align="center" width="33%">
-
-<td align="center" width="33%">
 <img src="images/plants/images/image-representatives/rhynchostylis.jpg" width="200"><br><br>
 <b>Common Name: </b>Foxtail Orchid<br>
 <b>Scientific Name: </b> <i>Rhynchostylis retusa, Rhynchostylis gigantea, </i> <br><br>
