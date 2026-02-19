@@ -26,17 +26,57 @@ The purpose of this image classification model is to automatically identify and 
 <img src="images/plants/images/image-representatives/byblis.jpg" width="200"><br><br>
 
 <b>Common Name: Rainbow Plant</b> Snake Plant <br>
-<b>Scientific Name: Byblis gigantea</b> <i>Dracaena trifasciata</i> <br>
+<b>Scientific Name: Byblis gigantea</b> <i>Dracaena trifasciata</i> <br><br>
 <b>Description:</b> Byblis gigantea is a rare, perennial carnivorous plant endemic to Western Australia, characterized by its tall (up to 0.45-0.7 meters), sub-shrubby habit and sticky, mucilaginous leaves that trap insects.
 </td>
-
+##########################################################
+<table>
+<tr>
 <td align="center" width="300">
-<img src="images/indoor/plant2.jpg" width="200"><br><br>
+<img src="images/plants/images/image-representatives/byblis.jpg" width="200"><br><br>
 
-<b>Common Name:</b> Aloe Vera <br>
-<b>Scientific Name:</b> <i>Aloe vera</i> <br>
-<b>Description:</b> A succulent plant widely used for its medicinal 
-properties, especially for soothing skin irritation and burns.
+<b>Common Name: Rainbow Plant</b> Snake Plant <br><br>
+<b>Scientific Name: Byblis gigantea</b> <i>Dracaena trifasciata</i> <br>
+<b>Description:</b> Caption
 </td>
-</tr>
-</table>
+##########################################################
+<table>
+<tr>
+<td align="center" width="300">
+<img src="images/plants/images/image-representatives/byblis.jpg" width="200"><br><br>
+
+<b>Common Name: Rainbow Plant</b> Snake Plant <br><br>
+<b>Scientific Name: Byblis gigantea</b> <i>Dracaena trifasciata</i> <br>
+<b>Description:</b> Caption
+</td
+##########################################################
+<table>
+<tr>
+<td align="center" width="300">
+<img src="images/plants/images/image-representatives/byblis.jpg" width="200"><br><br>
+
+<b>Common Name: Rainbow Plant</b> Snake Plant <br><br>
+<b>Scientific Name: Byblis gigantea</b> <i>Dracaena trifasciata</i> <br>
+<b>Description:</b> Caption
+</td
+#########################################################
+<table>
+<tr>
+<td align="center" width="300">
+<img src="images/plants/images/image-representatives/byblis.jpg" width="200"><br><br>
+
+<b>Common Name: Rainbow Plant</b> Snake Plant <br><br>
+<b>Scientific Name: Byblis gigantea</b> <i>Dracaena trifasciata</i> <br>
+<b>Description:</b> Caption
+</td
+#########################################################
+<table>
+<tr>
+<td align="center" width="300">
+<img src="images/plants/images/image-representatives/byblis.jpg" width="200"><br><br>
+
+<b>Common Name: Rainbow Plant</b> Snake Plant <br><br>
+<b>Scientific Name: Byblis gigantea</b> <i>Dracaena trifasciata</i> <br>
+<b>Description:</b> Caption
+</td
+##########################################################
