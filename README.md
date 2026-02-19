@@ -1,24 +1,24 @@
 # Plant-Species-Image-Classification
 
-**A. Project Overview:**
+** 📌Project Overview:**
 
 This project is a classification of tropical plants specifically focuses on building dataset of different varieties of Philippine Orchids. The primary goal of this project is to collect and classify images about various orchid species to create a structured dataset that can be used for plant identification in machine learning applications. The classification includes multiple orchid varieties captured from different angles to ensure accuracy. 
 
-**Purpose:**
+**🎯Purpose:**
 
 The purpose of this image classification model is to automatically identify and categorize different varieties of tropical orchids plants. By training the model, the system recognizes patterns such as the shape, color, and structure to accurately classify each orchid species. This will help reduce manual identification errors and provide a reliable source for future data analysis or AI-based plant recognition system.
 
 
 ## Embedded Screenshots Folders
 
-- [Exported Teachable Machine Model Files](images/plants/images/exported-model-files)
-- [Image Representatives](images/plants/images/image-representatives/)
-- [Model Evaluation](images/plants/images/model-evaluation/)
-- [Model Testing](images/plants/images/model-testing/)
-- [Model Training Details](images/plants/images/model-training-details/)
+- [📂 Exported Teachable Machine Model Files](images/plants/images/exported-model-files)
+- [📂 Image Representatives](images/plants/images/image-representatives/)
+- [📂 Model Evaluation](images/plants/images/model-evaluation/)
+- [📂 Model Testing](images/plants/images/model-testing/)
+- [📂 Model Training Details](images/plants/images/model-training-details/)
 
 
-## Plant Species Section
+## 🌿 Plant Species Section
 
 <table>
 <tr>
@@ -197,7 +197,7 @@ The purpose of this image classification model is to automatically identify and 
 </table>
 
 
-## Model Training Details
+## 🤖 Model Training Details
 
 <table>
 <tr>
@@ -230,7 +230,7 @@ The purpose of this image classification model is to automatically identify and 
 </td>
 </table>
 
-## Under the Hood Evaluation Screenshots
+## ⚙️ Under the Hood Evaluation Screenshots
 <table>
 <tr>
 <td align="center" width="500">
@@ -240,7 +240,7 @@ The purpose of this image classification model is to automatically identify and 
 </table>
 
 
-## Preview Testing Screenshots (10 predicted plant class)
+## 🔍 Preview Testing Screenshots (10 predicted plant class)
 
 <table>
 <tr>
@@ -296,7 +296,7 @@ The purpose of this image classification model is to automatically identify and 
 </td>
 </table>
 
-## Exported Models Preview (zip files)
+## 📤 Exported Models Preview (zip files)
 
 <table>
 <tr>
@@ -328,3 +328,116 @@ The purpose of this image classification model is to automatically identify and 
 </tr>
 </table>
 
+<table>
+<tr>
+
+<td align="center" width="25%">
+📦 <br><br>
+<b>Exported Dendrodium Orchid</b><br><br>
+<a href="images/plants/images/exported-model-files/dendrodium.zip">Download ZIP</a>
+</td>
+
+<td align="center" width="25%">
+📦 <br><br>
+<b>Exported Oncostelopsis Orchid</b><br><br>
+<a href="images/plants/images/exported-model-files/oncostelopsis.zip">Download ZIP</a>
+</td>
+
+<td align="center" width="25%">
+📦 <br><br>
+<b>Exported Phalaenopsis Orchid</b><br><br>
+<a href="images/plants/images/exported-model-files/phalaenopsis.zip">Download ZIP</a>
+</td>
+
+<td align="center" width="25%">
+📦 <br><br>
+<b>Exported Rhynchostylis Lady Orchid</b><br><br>
+<a href="images/plants/images/exported-model-files/rhynchostylis.zip">Download ZIP</a>
+</td>
+
+</tr>
+</table>
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+📦 <br><br>
+<b>Exported Vanda Baby Angel Orchid</b><br><br>
+<a href="images/plants/images/exported-model-files/vanda-baby-angel.zip">Download ZIP</a>
+</td>
+
+<td align="center" width="25%">
+📦 <br><br>
+<b>Exported Vanda Barnesii Orchid</b><br><br>
+<a href="images/plants/images/exported-model-files/vanda-barnesii.zip">Download ZIP</a>
+</td>
+
+<td align="center" width="25%">
+📦 <br><br>
+<b>Exported Vanda Celebica Orchid</b><br><br>
+<a href="images/plants/images/exported-model-files/vanda-celebica.zip">Download ZIP</a>
+</td>
+
+<td align="center" width="25%">
+📦 <br><br>
+<b>Exported Vanda Jairak Blue Orchid</b><br><br>
+<a href="images/plants/images/exported-model-files/vanda-jairakblue.zip">Download ZIP</a>
+</td>
+
+</tr>
+</table>
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+📦 <br><br>
+<b>Exported Vanda Javierae Orchid</b><br><br>
+<a href="images/plants/images/exported-model-files/vanda-javierae.zip">Download ZIP</a>
+</td>
+
+<td align="center" width="25%">
+📦 <br><br>
+<b>Exported Vanda Miss Joaquim Orchid</b><br><br>
+<a href="images/plants/images/exported-model-files/vanda-joaquim.zip">Download ZIP</a>
+</td>
+
+<td align="center" width="25%">
+📦 <br><br>
+<b>Exported Vanda Kulwadee Orchid</b><br><br>
+<a href="images/plants/images/exported-model-files/vanda-kulwadee.zip">Download ZIP</a>
+</td>
+
+<td align="center" width="25%">
+📦 <br><br>
+<b>Exported Vanda Ratchaburi Orchid</b><br><br>
+<a href="images/plants/images/exported-model-files/vanda-ratchaburi.zip">Download ZIP</a>
+</td>
+
+</tr>
+</table>
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+📦 <br><br>
+<b>Exported Vanda Sanderiana Orchid</b><br><br>
+<a href="images/plants/images/exported-model-files/vanda-sanderiana.zip">Download ZIP</a>
+</td>
+
+<td align="center" width="25%">
+📦 <br><br>
+<b>Exported Vanda Lou Sneary Pink Orchid</b><br><br>
+<a href="images/plants/images/exported-model-files/vanda-sneary-pink.zip">Download ZIP</a>
+</td>
+
+<td align="center" width="25%">
+📦 <br><br>
+<b>Exported Vanda Tricolor Orchid</b><br><br>
+<a href="images/plants/images/exported-model-files/vanda-tricolor.zip">Download ZIP</a>
+</td>
+
+</tr>
+</table>
