@@ -29,17 +29,17 @@ The purpose of this image classification model is to automatically identify and 
 <b>Scientific Name: Byblis gigantea</b> <i>Dracaena trifasciata</i> <br><br>
 <b>Description:</b> Byblis gigantea is a rare, perennial carnivorous plant endemic to Western Australia, characterized by its tall (up to 0.45-0.7 meters), sub-shrubby habit and sticky, mucilaginous leaves that trap insects.
 </td>
-##########################################################
+
 <table>
 <tr>
 <td align="center" width="300">
-<img src="images/plants/images/image-representatives/byblis.jpg" width="200"><br><br>
+<img src="images/plants/images/image-representatives/catasetum.jpg" width="200"><br><br>
 
-<b>Common Name: Rainbow Plant</b> Snake Plant <br><br>
-<b>Scientific Name: Byblis gigantea</b> <i>Dracaena trifasciata</i> <br>
-<b>Description:</b> Caption
+<b>Common Name: Catasetum </b> Snake Plant <br><br>
+<b>Scientific Name: Catasetum callosum</b> <i>Dracaena trifasciata</i> <br>
+<b>Description: Catasetum (abbreviated Ctsm.) is a genus of roughly 200 species of showy, Neotropical epiphytic orchids native to Central and South America. They are highly prized for their unique, waxy, and often intensely fragrant flowers.</b> Caption
 </td>
-##########################################################
+
 <table>
 <tr>
 <td align="center" width="300">
@@ -49,7 +49,7 @@ The purpose of this image classification model is to automatically identify and 
 <b>Scientific Name: Byblis gigantea</b> <i>Dracaena trifasciata</i> <br>
 <b>Description:</b> Caption
 </td
-##########################################################
+
 <table>
 <tr>
 <td align="center" width="300">
@@ -59,7 +59,7 @@ The purpose of this image classification model is to automatically identify and 
 <b>Scientific Name: Byblis gigantea</b> <i>Dracaena trifasciata</i> <br>
 <b>Description:</b> Caption
 </td
-#########################################################
+
 <table>
 <tr>
 <td align="center" width="300">
@@ -69,7 +69,7 @@ The purpose of this image classification model is to automatically identify and 
 <b>Scientific Name: Byblis gigantea</b> <i>Dracaena trifasciata</i> <br>
 <b>Description:</b> Caption
 </td
-#########################################################
+
 <table>
 <tr>
 <td align="center" width="300">
@@ -79,4 +79,4 @@ The purpose of this image classification model is to automatically identify and 
 <b>Scientific Name: Byblis gigantea</b> <i>Dracaena trifasciata</i> <br>
 <b>Description:</b> Caption
 </td
-##########################################################
+
