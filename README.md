@@ -105,7 +105,7 @@ The purpose of this image classification model is to automatically identify and 
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="images/plants/images/image-representatives/vanda-javierae.jpg" width="200"><br><br>
+<img src="images/plants/images/image-representatives/vanda_javierae.jpg" width="200"><br><br>
 <b>Common Name: </b>Mrs. Javier's Vanda<br>
 <b>Scientific Name: </b> <i>Vanda javierae </i> <br><br>
 <b>Description:</b><br> Vanda javierae is a rare, endangered species of orchid endemic to the Philippines, specifically found in the Luzon and Calayan Island regions. It is a medium-sized, monopodial epiphyte that thrives in cool, high-elevation, humid environments (around 1200 meters), often near water sources.
