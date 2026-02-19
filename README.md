@@ -9,9 +9,10 @@ This project is a classification of tropical plants specifically focuses on buil
 The purpose of this image classification model is to automatically identify and categorize different varieties of tropical orchids plants. By training the model, the system recognizes patterns such as the shape, color, and structure to accurately classify each orchid species. This will help reduce manual identification errors and provide a reliable source for future data analysis or AI-based plant recognition system.
 
 
-## Image Subfolders
+## Embedded Screenshots Folders
 
 - [Exported Teachable Machine Model Files](images/plants/images/exported-model-files)
-- [Folder 2](images/folder2/)
-- [Folder 3](images/folder3/)
-- [Folder 4](images/folder4/)
+- [Image Representatives](images/plants/images/image-representatives/)
+- [Model Evaluation](images/plants/images/model-evaluation/)
+- [Model Testing](images/plants/images/model-testing/)
+- [Model Training Details](images/plants/images/model-training-details/)
