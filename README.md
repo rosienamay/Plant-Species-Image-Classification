@@ -33,7 +33,7 @@ The purpose of this image classification model is to automatically identify and 
 <td align="center" width="33%">
 <img src="images/plants/images/image-representatives/catasetum.jpg" width="200"><br><br>
 
-<b>Common Name:</b> Catasetum<br><br>
+<b>Common Name:</b> Catasetum<br>
 <b>Scientific Name: </b><i>Catasetum callosum</i> <br><br>
 <b>Description: </b>Catasetum (abbreviated Ctsm.) is a genus of roughly 200 species of showy, Neotropical epiphytic orchids native to Central and South America. They are highly prized for their unique, waxy, and often intensely fragrant flowers.
 
@@ -60,7 +60,7 @@ The purpose of this image classification model is to automatically identify and 
 
 <td align="center" width="33%">
 <img src="images/plants/images/image-representatives/dendrodium.jpg" width="200"><br><br>
-<b>Common Name:</b> Dendrobium Orchid/Stalk Orchids<br><br>
+<b>Common Name:</b> Dendrobium Orchid/Stalk Orchids<br>
 <b>Scientific Name: </b> <i> Dendrobium </i> <br><br>
 <b>Description: </b>Dendrobium is a large genus of about 1600 tropical and subtropical herbaceous perennials in the orchid family (Orchidaceae). They are native across a wide area from India, China and Japan to Australia, New Zealand and New Caledonia. The genus name comes from the Greek words dendron, meaning a tree, and bios, meaning life.
 
