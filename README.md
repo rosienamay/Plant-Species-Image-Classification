@@ -255,3 +255,43 @@ The purpose of this image classification model is to automatically identify and 
 <b>A testing preview of a Vanda Ratchaburi Orchid that shows 100% of test result.</b>
 </td>
 </table>
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="images/plants/images/model-testing/Test3.png" width="300"><br><br>
+<b> A testing preview of a Vanda Miss Joaquim Orchid that shows 100% of test result.</b>
+</td>
+
+
+<td align="center" width="50%">
+<img src="images/plants/images/model-testing/Test4.png" width="300"><br><br>
+<b>A testing preview of a Vanda Kulwadee Fragrance Orchid that shows 100% of test result.</b>
+</td>
+</table>
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="images/plants/images/model-testing/Test5.png" width="300"><br><br>
+<b> A testing preview of a Dendrodium Tyabb Orchid that shows 92% of test result.</b>
+</td>
+
+<td align="center" width="50%">
+<img src="images/plants/images/model-testing/Test8.png" width="300"><br><br>
+<b>A testing preview of a Dancing Lady Orchid that shows 100% of test result.</b>
+</td>
+</table>
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="images/plants/images/model-testing/Test9.png" width="300"><br><br>
+<b> A testing preview of a Cymbidium Orchid that shows 99% of test result.</b>
+</td>
+
+<td align="center" width="50%">
+<img src="images/plants/images/model-testing/Test10.png" width="300"><br><br>
+<b>A testing preview of a Byblis Gigantea Orchid that shows 100% of test result.</b>
+</td>
+</table>
