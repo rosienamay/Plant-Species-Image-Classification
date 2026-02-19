@@ -234,7 +234,7 @@ The purpose of this image classification model is to automatically identify and 
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="images/plants/images/model-evaluation/model-evaluation" width="200"><br><br>
+<img src="images/plants/images/model-evaluation/model-evaluation.png" width="200"><br><br>
 <b>Model Evaluation:</b>The Accuracy per Class and Confusion Matrix are not showing due to a browser performance limitation caused by a large data set size.
 </td>
 </table>
