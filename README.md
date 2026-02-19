@@ -22,7 +22,7 @@ The purpose of this image classification model is to automatically identify and 
 
 <table>
 <tr>
-<td align="center" width="300">
+<td align="center">
 <img src="images/plants/images/image-representatives/byblis.jpg" width="200"><br><br>
 
 <b>Common Name: Rainbow Plant</b> Snake Plant <br>
@@ -32,7 +32,7 @@ The purpose of this image classification model is to automatically identify and 
 
 <table>
 <tr>
-<td align="center" width="300">
+<td align="center">
 <img src="images/plants/images/image-representatives/catasetum.jpg" width="200"><br><br>
 
 <b>Common Name: Catasetum </b> Snake Plant <br><br>
@@ -42,7 +42,7 @@ The purpose of this image classification model is to automatically identify and 
 
 <table>
 <tr>
-<td align="center" width="300">
+<td align="center">
 <img src="images/plants/images/image-representatives/byblis.jpg" width="200"><br><br>
 
 <b>Common Name: Rainbow Plant</b> Snake Plant <br><br>
@@ -52,7 +52,7 @@ The purpose of this image classification model is to automatically identify and 
 
 <table>
 <tr>
-<td align="center" width="300">
+<td align="center">
 <img src="images/plants/images/image-representatives/byblis.jpg" width="200"><br><br>
 
 <b>Common Name: Rainbow Plant</b> Snake Plant <br><br>
